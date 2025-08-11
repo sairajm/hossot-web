@@ -1,0 +1,7 @@
+<svg width="300" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="400" fill="#fef2f2"/>
+  <circle cx="150" cy="120" r="60" fill="#ef4444"/>
+  <text x="150" y="200" text-anchor="middle" fill="#dc2626" font-family="Arial" font-size="16" font-weight="bold">Healthcare Research</text>
+  <text x="150" y="225" text-anchor="middle" fill="#b91c1c" font-family="Arial" font-size="14">Head of Research</text>
+  <text x="150" y="250" text-anchor="middle" fill="#dc2626" font-family="Arial" font-size="12">Medical Innovation</text>
+</svg>
